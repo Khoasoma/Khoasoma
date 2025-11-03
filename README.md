@@ -4,19 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Backend+%26+DevOps+Developer;Docker+Enthusiast+%7C+Java+Expert;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## ⏰ Thời gian tớ đã sống trên đời
-
-<div align="center">
-
-### 🎂 Tuổi của tớ tính bằng milliseconds
-
-```javascript
-Ngày sinh: 03/02/2011
-Đã sống: 467,942,400,000+ milliseconds (và đang đếm...)
-```
-
-<img src="https://img.shields.io/badge/Born-February%203,%202011-FF1493?style=for-the-badge&logo=birthday-cake&logoColor=white" alt="Birthday" />
-<img src="https://img.shields.io/badge/Age-14%20years%20old-00D9FF?style=for-the-badge&logo=hackaday&logoColor=white" alt="Age" />
+### 14 Yo , From Vung Tau ( Ho Chi Minh City )
 
 </div>
 
