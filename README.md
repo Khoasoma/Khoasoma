@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Backend+%26+DevOps+Developer;Docker+Enthusiast+%7C+Java+Expert;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-### 14 Yo , From Vung Tau ( Ho Chi Minh City )
+### 15 Yo , From Vung Tau ( Ho Chi Minh City )
 
 </div>
 
@@ -15,8 +15,7 @@
 - 👯 Tìm kiếm cơ hội hợp tác trong các dự án mã nguồn mở
 - 💬 Hỏi tớ về **Java, Docker, JavaScript, C++, PHP**
 - 📫 Liên hệ: **kh0a@hcmdev.cloud**
-- 🎂 Ngày sinh: **03/02/2011** (14 tuổi)
-- ⏱️ Đã sống được hơn **467 triệu milliseconds**!
+- 🎂 Ngày sinh: **03/02/2011** (15 tuổi)
 - ⚡ Fun fact: Tớ sinh năm 2011 - cùng năm Minecraft ra mắt bản chính thức!
 
 ## 💻 Kỹ năng & Độ thành thạo
