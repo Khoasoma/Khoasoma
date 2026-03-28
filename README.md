@@ -1,7 +1,7 @@
-# Khoa Do
+# Khoa Đỗ
 
 <p align="center">
-  <b>Backend & DevOps Developer</b> · 15 y/o · Vũng Tàu, Vietnam
+  <b>Backend & DevOps Developer</b> · 15 y/o · Hà Nội, Vietnam
   <br/>
   Focused on containerization, Java backend systems, and DevOps automation.
 </p>
