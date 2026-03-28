@@ -1,32 +1,57 @@
 # Khoa Do
-**Backend & DevOps Developer** · 15 y/o · Vung Tau, Vietnam
 
-Focused on containerization, Java backend systems, and DevOps automation.
+<p align="center">
+  <b>Backend & DevOps Developer</b> · 15 y/o · Vũng Tàu, Vietnam
+  <br/>
+  Focused on containerization, Java backend systems, and DevOps automation.
+</p>
 
-📧 kh0a@hcmdev.cloud
+<p align="center">
+  <a href="mailto:kh0a@hcmdev.cloud"><img alt="Email" src="https://img.shields.io/badge/Email-kh0a%40hcmdev.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/808974657994752050"><img alt="Discord" src="https://img.shields.io/badge/Discord-808974657994752050-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/kh0asoma"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-kh0asoma-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Khoasoma&color=0366d6&style=flat-square&label=Profile+Views" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Khoasoma?style=flat-square&color=0366d6&labelColor=f6f8fa&logo=github" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/Khoasoma?style=flat-square&color=0366d6&labelColor=f6f8fa&logo=github" />
+</p>
 
 ---
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khoasoma&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoasoma&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=0366d6&text_color=24292e&bg_color=ffffff" alt="Top Languages" height="180"/>
-</div>
+> Note: Cards below use public 3rd-party services (Vercel/Heroku). If GitHub blocks hotlinking or a service is down, images may not load.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khoasoma&theme=default&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Khoasoma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Khoasoma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+    <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Khoasoma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoasoma&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoasoma&layout=compact&hide_border=true&langs_count=8&theme=default" />
+    <img alt="Top Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoasoma&layout=compact&hide_border=true&langs_count=8&theme=default" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khoasoma&theme=github-light&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Khoasoma&hide_border=true&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Khoasoma&hide_border=true&theme=default" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Khoasoma&hide_border=true&theme=default" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khoasoma&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Khoasoma?style=flat-square&color=0366d6&labelColor=f6f8fa&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Khoasoma?style=flat-square&color=0366d6&labelColor=f6f8fa&logo=github" alt="Stars"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khoasoma&theme=github-dark&hide_border=true&custom_title=Contribution%20Activity" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Khoasoma&theme=github-light&hide_border=true&custom_title=Contribution%20Activity" />
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Khoasoma&theme=github-light&hide_border=true&custom_title=Contribution%20Activity" />
+  </picture>
+</p>
 
 ---
 
@@ -34,13 +59,10 @@ Focused on containerization, Java backend systems, and DevOps automation.
 
 ### Languages
 
-```text
-Docker        ████████████████████░   79%
-Java          ██████████████░░░░░░░   72%
-JavaScript    ███████████░░░░░░░░░░   51%
-C++           █████████░░░░░░░░░░░���   45%
-PHP           ████████░░░░░░░░░░░░░   41%
-```
+- Java
+- JavaScript
+- C++
+- PHP
 
 ### DevOps & Infrastructure
 
@@ -85,17 +107,19 @@ PHP           ████████░░░░░░░░░░░░░   
 
 ## Featured Projects
 
-<div align="center">
-
-[![XenonFolia](https://github-readme-stats.vercel.app/api/pin/?username=hcm-development&repo=XenonFolia&theme=default&hide_border=true)](https://github.com/hcm-development/XenonFolia)
-[![LeafPlus](https://github-readme-stats.vercel.app/api/pin/?username=Khoasoma&repo=leafplus&theme=default&hide_border=true)](https://github.com/Khoasoma/leafplus)
-
-</div>
+<p align="center">
+  <a href="https://github.com/hcm-development/XenonFolia">
+    <img alt="XenonFolia" src="https://github-readme-stats.vercel.app/api/pin/?username=hcm-development&repo=XenonFolia&hide_border=true&theme=default" />
+  </a>
+  <a href="https://github.com/Khoasoma/leafplus">
+    <img alt="LeafPlus" src="https://github-readme-stats.vercel.app/api/pin/?username=Khoasoma&repo=leafplus&hide_border=true&theme=default" />
+  </a>
+</p>
 
 ---
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/808974657994752050)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kh0asoma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kh0a@hcmdev.cloud)
+- Email: kh0a@hcmdev.cloud
+- Discord: https://discord.com/users/808974657994752050
+- Facebook: https://facebook.com/kh0asoma
