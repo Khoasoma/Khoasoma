@@ -1,9 +1,9 @@
 # Khoa Đỗ
 
 <p align="center">
-  <b>Backend & DevOps Developer</b> · 15 y/o · Hà Nội, Vietnam
+  <b>Application Backend Engineer</b> · 15 y/o · Hà Nội, Vietnam
   <br/>
-  Focused on containerization, Java backend systems, and DevOps automation.
+  Focused on C++ backend systems, low-level programming, and high-performance applications.
 </p>
 
 <p align="center">
@@ -64,28 +64,9 @@
 - C++
 - PHP
 
-### DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Databases
 
@@ -98,21 +79,19 @@
 
 ## Currently Working On
 
-- Docker & Kubernetes — building scalable containerized applications
-- Microservices architecture with Spring Boot
 - CI/CD pipelines and infrastructure automation
-- Web application security best practices
-
+- C++ Application
+- Hardware-software integration
 ---
 
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hcm-development/XenonFolia">
-    <img alt="XenonFolia" src="https://github-readme-stats.vercel.app/api/pin/?username=hcm-development&repo=XenonFolia&hide_border=true&theme=default" />
+  <a href="https://github.com/nekoo-moe/nstu">
+    <img alt="nstu" src="https://github-readme-stats.vercel.app/api/pin/?username=nekoo-moe&repo=nstu&hide_border=true&theme=default" />
   </a>
-  <a href="https://github.com/Khoasoma/leafplus">
-    <img alt="LeafPlus" src="https://github-readme-stats.vercel.app/api/pin/?username=Khoasoma&repo=leafplus&hide_border=true&theme=default" />
+  <a href="https://github.com/Khoasoma/Cpp-Training">
+    <img alt="Cpp-Training" src="https://github-readme-stats.vercel.app/api/pin/?username=Khoasoma&repo=Cpp-Training&hide_border=true&theme=default" />
   </a>
 </p>
 
