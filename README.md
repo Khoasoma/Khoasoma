@@ -22,7 +22,6 @@
 
 ## GitHub Statistics
 
-> Note: Cards below use public 3rd-party services (Vercel/Heroku). If GitHub blocks hotlinking or a service is down, images may not load.
 
 <p align="center">
   <picture>
@@ -59,10 +58,10 @@
 
 ### Languages
 
-- Java
-- JavaScript
+
 - C++
-- PHP
+- Javascript
+- Rust
 
 ### Backend
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
